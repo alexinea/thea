@@ -20,14 +20,13 @@
     <div class="container">
       <div class="navbar">
         <div class="navbar-section">
-          <a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="logo" alt="<?php bloginfo( 'name' ); ?>" rel="home">LiveSino</a>
+          <a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="logo" alt="<?php bloginfo( 'name' ); ?>" rel="home">Alexinea</a>
         </div>
         <div class="navbar-center hide-sm">
           <ul class="nav">
-            <li class="nav-item"><a href="/">资讯</a></li>
-            <li class="nav-item "><a href="/tag/hardware/">设备</a></li>
-            <li class="nav-item"><a href="/tag/xbox/">Xbox</a></li>
-            <li class="nav-item"><a href="/tag/deals/">值得买</a></li>
+          <li class="nav-item"><a href="/">首页</a></li>
+          <li class="nav-item"><a href="http://forerunner.cnblogs.com/" target="_blank">博客园</a></li>
+          <li class="nav-item"><a href="https://github.com/alexinea" target="_blank">GitHub</a></li>
           </ul>
         </div>
         <div class="navbar-section">
@@ -38,12 +37,15 @@
               <input type="submit" class="search-btn btn btn-link" value="">
             </form>
           </div>
-          <a class="social-button hide-sm" href="https://weibo.com/livesino" target="_blank">
-            <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/icons/weibo.svg">
-          </a>
-          <a class="rss-button hide-sm" href="<?php bloginfo('rss2_url'); ?>" target="_blank">
-            <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/icons/rss.svg">
-          </a>
+          <a class="social-button hide-sm" href="https://twitter.com/forerunner" target="_blank">
+          <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/icons/twitter.svg">
+        </a>
+        <a class="social-button hide-sm" href="https://weibo.com/forerunner" target="_blank">
+          <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/icons/weibo.svg">
+        </a>
+        <a class="rss-button hide-sm" href="<?php bloginfo('rss2_url'); ?>" target="_blank">
+          <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/icons/rss.svg">
+        </a>
         </div>
       </div>
     </div>

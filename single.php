@@ -52,10 +52,10 @@
             <div class="modal-body">
               <div class="columns">
                 <div class="column col-6">
-                  <img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/like-wechat.png">
+                  <img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/like-wechat2.png">
                 </div>
                 <div class="column col-6">
-                  <img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/like-alipay.png">
+                  <img class="img-responsive" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/like-alipay2.png">
                 </div>
               </div>
             </div>
@@ -88,7 +88,7 @@
             <!-- github-vertical-sm -->
             <ins class="adsbygoogle"
                 style="display:inline-block;width:120px;height:240px"
-                data-ad-client="ca-pub-2225124559530218"
+                data-ad-client="ca-pub-1112894007456047"
                 data-ad-slot="5087273059"></ins>
             <script>
             (adsbygoogle = window.adsbygoogle || []).push({});
