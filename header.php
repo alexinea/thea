@@ -26,6 +26,7 @@
           <ul class="nav">
           <li class="nav-item"><a href="/">首页</a></li>
           <li class="nav-item"><a href="http://forerunner.cnblogs.com/" target="_blank">博客园</a></li>
+			    <li class="nav-item"><a href="https://poi.alexinea.com/" target="_blank" title="有关风月、诗与远方">诗与远方</a></li>
           <li class="nav-item"><a href="https://github.com/alexinea" target="_blank">GitHub</a></li>
           </ul>
         </div>
