@@ -15,7 +15,7 @@
   <?php if ( get_comment_type() == "comment" ) : ?>
     <div class="tile-icon vcard">
       <div class="<?php if($comment->user_id == 0) {echo 'visitor ';} else {echo 'admin ';} ?>gravatar">
-        <?php echo get_avatar( $comment, 36, home_url() . '/wp-content/themes/thea/assets/img/avatar.png' ); ?>
+        <?php echo get_avatar( $comment, 36, home_url() . '/wp-content/themes/thea-master/assets/img/avatar.png' ); ?>
       </div>
     </div>
     <div class="tile-content">
