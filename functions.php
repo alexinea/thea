@@ -87,7 +87,7 @@ function annotation($content){
     $content = '<p>' . get_the_post_thumbnail( $post->ID ) . '</p>' . $content;
   }
   $content .= '<p></p>';
-  $content .= '<p>&copy;2017 <a href="http://livesino.net">LiveSino.net</a> | <a href="'.get_permalink().'" title="'.get_the_title().'">阅读原文</a> | <a href="'.get_permalink().'#comments" title="'.get_the_title().' 的评论">添加评论</a></p>';
+  $content .= '<p>&copy;2017 <a href="https://alexinea.com">Alexinea.com</a> | <a href="'.get_permalink().'" title="'.get_the_title().'">阅读原文</a> | <a href="'.get_permalink().'#comments" title="'.get_the_title().' 的评论">添加评论</a></p>';
 	return $content;
 }
 add_filter('the_content_feed', 'annotation');
