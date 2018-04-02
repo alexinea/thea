@@ -63,7 +63,13 @@
         </div>
       </div>
 
+      <div class="post-wechat-mp">
+        <img class="img-responsive img-wechat-mp" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/img/wechat-mp.png">
+      </div>
+
       <div class="post-related">
+        <?php
+        /*
         <div class="ads post-ads right pr">
           <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
           <ins class="adsbygoogle"
@@ -75,6 +81,8 @@
               (adsbygoogle = window.adsbygoogle || []).push({});
           </script>
         </div>
+        */
+        ?>
       </div>
 
       <div id="comments" class="post-comments">
@@ -82,6 +90,8 @@
       </div>
 
       <div class="container">
+        <?php
+        /*
         <div class="ads post-ads post-ads-sidebar">
           <div class="adsense">
             <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -95,6 +105,8 @@
             </script>
           </div>
         </div>
+        */
+        ?>
       </div>
 
     </article>

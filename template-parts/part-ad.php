@@ -1,4 +1,5 @@
-<div class="thea-ad">
+<?php
+/*<div class="thea-ad">
   <div class="container">
     <div class="adsense">
       <div class="hide-md">
@@ -25,3 +26,5 @@
     </div>
   </div>
 </div>
+*/
+?>

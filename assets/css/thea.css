@@ -323,6 +323,15 @@ a:focus {
   max-height: none;
 }
 
+.post .post-wechat-mp {
+  text-align: center;
+  width: 100%;
+}
+
+.post .post-wechat-mp .img-wechat-mp {
+  margin: 0 auto;
+}
+
 .post .post-meta-tags .tag {
   margin-right: .2rem;
   margin-top: .2rem;
